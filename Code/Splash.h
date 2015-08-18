@@ -1,0 +1,1 @@
+UBYTE Run_splash(void);
